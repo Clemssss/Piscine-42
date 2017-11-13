@@ -1,0 +1,5 @@
+Credentials cache: API:1FA8F962-1824-4611-9F1C-9E018FD6DB82
+        Principal: clegirar@42.FR
+
+  Issued                Expires               Principal
+Jul  3 15:31:48 2017  Jul 10 15:31:32 2017  krbtgt/42.FR@42.FR
